@@ -1,0 +1,60 @@
+Word Count in 1.txt is = 6
+Year:2020
+Month: 12
+Day: 5
+Time: 20:46:25
+Time taken: 0 seconds 
+Word Count in 2.txt is = 13
+Year:2020
+Month: 12
+Day: 5
+Time: 20:46:25
+Time taken: 0 seconds 
+Word Count in 1.txt is = 6
+Year:2020
+Month: 12
+Day: 5
+Time: 20:47:54
+Time taken: 0 seconds 
+Word Count in 2.txt is = 13
+Year:2020
+Month: 12
+Day: 5
+Time: 20:47:54
+Time taken: 0 seconds 
+Word Count in 1.txt is = 11
+Year:2020
+Month: 12
+Day: 5
+Time: 20:48:27
+Time taken: 0 seconds 
+Word Count in 2.txt is = 11
+Year:2020
+Month: 12
+Day: 5
+Time: 20:48:27
+Time taken: 0 seconds 
+Word Count in 1.txt is = 13
+Year:2020
+Month: 12
+Day: 5
+Time: 20:49:21
+Time taken: 0 seconds 
+Word Count in 2.txt is = 13
+Year:2020
+Month: 12
+Day: 5
+Time: 20:49:21
+Time taken: 0 seconds 
+Word Count in 1.txt is = 6
+Year:2020
+Month: 12
+Day: 5
+Time: 20:50:27
+Time taken: 0 seconds 
+Word Count in 2.txt is = 7
+Year:2020
+Month: 12
+Day: 5
+Time: 20:50:27
+Time taken: 0 seconds 

@@ -1,0 +1,46 @@
+select 
+AVG(salary)
+from 
+HR.EMPLOYEES;
+
+
+select
+first_name
+from
+HR.EMPLOYEES
+where
+salary=(select 
+Max(salary)
+from
+HR.EMPLOYEES);
+
+
+
+select salary,first_name
+from 
+HR.EMPLOYEES
+
+select
+first_name,salary
+from
+HR.EMPLOYEES
+where
+salary =(select
+Max(salary)
+from
+HR.EMPLOYEES
+where
+salary <>
+(select
+Max(salary)
+from
+HR.EMPLOYEES));
+
+select
+employee_id
+from
+HR.EMPLOYEES
+Group By 
+employee_id
+
+

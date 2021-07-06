@@ -1,0 +1,95 @@
+CREATE TABLE audits (
+      table_name       VARCHAR2(255),
+      transaction_name VARCHAR2(10),
+      by_user          VARCHAR2(30),
+      transaction_date DATE
+);
+
+CREATE TABLE customers1 (
+      customer_id NUMBER(5) PRIMARY KEY,
+      customer_name VARCHAR2(255),
+      salary number(10),
+      address VARCHAR2(30)
+);
+
+select * from customers1
+
+insert into customers1(customer_id, customer_name, salary, address) values(1,'Nadeem', 20000, 'Katachi');
+insert into customers1(customer_id, customer_name, salary, address) values(2,'Faheem', 20000, 'Katachi');
+insert into customers1(customer_id, customer_name, salary, address) values(3,'Fazad', 20000, 'Katachi');
+insert into customers1(customer_id, customer_name, salary, address) values(4,'Farah', 20000, 'Katachi');
+
+
+CREATE OR REPLACE TRIGGER customers_audit_trg
+    AFTER 
+    UPDATE OR DELETE 
+    ON customers1
+    FOR EACH ROW    
+DECLARE
+   l_transaction VARCHAR2(10);
+BEGIN
+   -- determine the transaction type
+   l_transaction := CASE  
+         WHEN UPDATING THEN 'UPDATE'
+         WHEN DELETING THEN 'DELETE'
+   END;
+
+   -- insert a row into the audit table   
+   INSERT INTO audits (table_name, transaction_name, by_user, transaction_date)
+   VALUES('CUSTOMERS', l_transaction, USER, SYSDATE);
+END;
+
+update customers
+set CUSTOMER_NAME='Tahir'
+where CUSTOMER_ID=4;
+
+
+DELETE FROM customers
+WHERE customer_id = 4;
+
+
+
+--Statement Level Trigger
+
+CREATE TABLE customers12
+  (
+    customer_id NUMBER 
+                PRIMARY KEY,
+    name         VARCHAR2( 255 ) NOT NULL,
+    address      VARCHAR2( 255 )         ,
+    website      VARCHAR2( 255 )         ,
+    credit_limit NUMBER( 8, 2 )
+  );
+    
+  
+Insert into CUSTOMERS12 (CUSTOMER_ID,NAME,ADDRESS,CREDIT_LIMIT,WEBSITE) values (177,'United Continental Holdings','2904 S Salina St, Syracuse, NY',5000,'http://www.unitedcontinentalholdings.com');
+Insert into CUSTOMERS12 (CUSTOMER_ID,NAME,ADDRESS,CREDIT_LIMIT,WEBSITE) values (180,'INTL FCStone','5344 Haverford Ave, Philadelphia, PA',5000,'http://www.intlfcstone.com');
+Insert into CUSTOMERS12 (CUSTOMER_ID,NAME,ADDRESS,CREDIT_LIMIT,WEBSITE) values (184,'Publix Super Markets','1795 Wu Meng, Muang Chonburi, ',1200,'http://www.publix.com');
+
+
+  select* from customers12
+
+
+
+CREATE OR REPLACE TRIGGER customers_credit_trg
+    BEFORE UPDATE OF credit_limit  
+    ON customers12
+DECLARE
+    l_day_of_month NUMBER;
+BEGIN
+    -- determine the transaction type
+    l_day_of_month := EXTRACT(DAY FROM sysdate);
+
+    IF l_day_of_month BETWEEN 8 AND 11 THEN
+        raise_application_error(-20100,'Cannot update customer credit from 8th to 11th');
+    END IF;
+END;
+
+/
+  
+  UPDATE 
+    customers12 
+SET 
+    credit_limit = credit_limit * 110;
+
+

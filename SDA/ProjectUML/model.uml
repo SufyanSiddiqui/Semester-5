@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:java="http://www.eclipse.org/papyrus/JAVA/1" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <uml:Model xmi:id="_l63AIEkrEeuTb4_Hz08pYw" name="model">
+    <packageImport xmi:type="uml:PackageImport" xmi:id="_wRtfMEkrEeuTb4_Hz08pYw">
+      <importedPackage xmi:type="uml:Profile" href="pathmap://Papyrus_JAVA_PROFILES/java.profile.uml#_6TYLMN0yEd6P1qtlpBOZyg"/>
+    </packageImport>
+    <packagedElement xmi:type="uml:Class" xmi:id="_IIr7YEksEeuTb4_Hz08pYw" name="Person">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_jW3j8EksEeuTb4_Hz08pYw" name="First_Name" isUnique="false">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_5f3bYEksEeuTb4_Hz08pYw" name="Last_Name" isUnique="false">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_Q9sXwEktEeuTb4_Hz08pYw" name="ID">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_YloZgEktEeuTb4_Hz08pYw" name="Address" isUnique="false">
+        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_txnjMEk6EeuTb4_Hz08pYw" name="Student">
+      <generalization xmi:type="uml:Generalization" xmi:id="_qNkYMEk7EeuTb4_Hz08pYw" general="_IIr7YEksEeuTb4_Hz08pYw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_uQFn4Ek6EeuTb4_Hz08pYw" name="Veteran">
+      <generalization xmi:type="uml:Generalization" xmi:id="_x82_IEk7EeuTb4_Hz08pYw" general="_IIr7YEksEeuTb4_Hz08pYw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_uvmOYEk6EeuTb4_Hz08pYw" name="Driver">
+      <generalization xmi:type="uml:Generalization" xmi:id="_yqHGsEk7EeuTb4_Hz08pYw" general="_IIr7YEksEeuTb4_Hz08pYw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_9aq7sEk6EeuTb4_Hz08pYw" name="Vehicle"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="__O7uoEk6EeuTb4_Hz08pYw" name="Point">
+      <generalization xmi:type="uml:Generalization" xmi:id="_1ofjYEk7EeuTb4_Hz08pYw" general="_9aq7sEk6EeuTb4_Hz08pYw"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_CYJiUEk7EeuTb4_Hz08pYw" name="Location"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_DSGpIEk7EeuTb4_Hz08pYw" name="Route"/>
+    <packagedElement xmi:type="uml:Class" xmi:id="_HX2WgEk7EeuTb4_Hz08pYw" name="Student_Fee">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_3ghcAEk7EeuTb4_Hz08pYw" name="student" type="_txnjMEk6EeuTb4_Hz08pYw" association="_3giqIEk7EeuTb4_Hz08pYw">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_3ghcAUk7EeuTb4_Hz08pYw" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_3ghcAkk7EeuTb4_Hz08pYw" value="1"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_IGGjoEk7EeuTb4_Hz08pYw" name="Veteran_Fee">
+      <ownedAttribute xmi:type="uml:Property" xmi:id="_4a2WQEk7EeuTb4_Hz08pYw" name="veteran" type="_uQFn4Ek6EeuTb4_Hz08pYw" association="_4a6AoEk7EeuTb4_Hz08pYw">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4a2WQUk7EeuTb4_Hz08pYw" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4a2WQkk7EeuTb4_Hz08pYw" value="1"/>
+      </ownedAttribute>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_3giqIEk7EeuTb4_Hz08pYw" memberEnd="_3giqIUk7EeuTb4_Hz08pYw _3ghcAEk7EeuTb4_Hz08pYw">
+      <name xsi:nil="true"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_3giqIUk7EeuTb4_Hz08pYw" name="student_Fee" type="_HX2WgEk7EeuTb4_Hz08pYw" association="_3giqIEk7EeuTb4_Hz08pYw">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_3giqIkk7EeuTb4_Hz08pYw" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_3giqI0k7EeuTb4_Hz08pYw" value="1"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_4a6AoEk7EeuTb4_Hz08pYw" memberEnd="_4a6AoUk7EeuTb4_Hz08pYw _4a2WQEk7EeuTb4_Hz08pYw">
+      <name xsi:nil="true"/>
+      <ownedEnd xmi:type="uml:Property" xmi:id="_4a6AoUk7EeuTb4_Hz08pYw" name="veteran_Fee" type="_IGGjoEk7EeuTb4_Hz08pYw" association="_4a6AoEk7EeuTb4_Hz08pYw">
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_4a6Aokk7EeuTb4_Hz08pYw" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_4a6Ao0k7EeuTb4_Hz08pYw" value="1"/>
+      </ownedEnd>
+    </packagedElement>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_7GhFkEkrEeuTb4_Hz08pYw">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_7G-YkEkrEeuTb4_Hz08pYw" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/JAVA/1#/"/>
+      </eAnnotations>
+      <appliedProfile xmi:type="uml:Profile" href="pathmap://Papyrus_JAVA_PROFILES/java.profile.uml#_6TYLMN0yEd6P1qtlpBOZyg"/>
+    </profileApplication>
+  </uml:Model>
+  <java:JavaClass xmi:id="_EG9V4EktEeuTb4_Hz08pYw" base_Classifier="_IIr7YEksEeuTb4_Hz08pYw"/>
+  <java:JavaProperty xmi:id="_GJbj8EktEeuTb4_Hz08pYw" base_Property="_jW3j8EksEeuTb4_Hz08pYw"/>
+  <java:JavaProperty xmi:id="_LP4gYEktEeuTb4_Hz08pYw" base_Property="_5f3bYEksEeuTb4_Hz08pYw"/>
+  <java:JavaProperty xmi:id="_X48SoEktEeuTb4_Hz08pYw" base_Property="_Q9sXwEktEeuTb4_Hz08pYw"/>
+  <java:JavaProperty xmi:id="_bhWjwEktEeuTb4_Hz08pYw" base_Property="_YloZgEktEeuTb4_Hz08pYw"/>
+</xmi:XMI>

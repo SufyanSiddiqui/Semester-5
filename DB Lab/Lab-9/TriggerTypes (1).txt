@@ -1,0 +1,77 @@
+CREATE TABLE product_check
+(Message VARCHAR(50),
+Current_Date Date); 
+
+
+
+CREATE TABLE PRICE_HISTORY
+(product_id number(5),
+product_name VARCHAR(20),
+supplier_name VARCHAR (20),
+unit_price number(7,2) );
+
+CREATE TABLE PRODUCT
+(product_id number(5),
+product_name VARCHAR(20),
+supplier_name VARCHAR (20),
+unit_price number(7,2) ) 
+
+
+Insert into product values (100, 'Laptop', 'Dell', 262.22);
+Insert into product values (101, 'Laptop', 'HP', 362.22);
+
+select * from  product
+--1) BEFORE UPDATE, Statement Level:
+--This trigger will insert a record into the table'product_check' before a sql 
+--update statement is executed, at the statement level 
+
+CREATE OR REPLACE TRIGGER BEFORE_UPDATE_STATEMENT
+BEFORE UPDATE
+ON PRODUCT
+BEGIN
+INSERT INTO PRODUCT_CHECK VALUES('BEFORE UPDATE, STATEMENT LEVEL', SYSDATE);
+END;
+/
+
+--2) BEFORE UPDATE, Row Level:
+--This trigger will insert a record into the table 'product_check' before each row is update. 
+
+CREATE OR REPLACE TRIGGER BEFORE_UPDATE_ROW
+BEFORE UPDATE
+ON PRODUCT
+FOR EACH ROW
+BEGIN
+INSERT INTO PRODUCT_CHECK VALUES('BEFORE UPDATE ROW LEVEL',SYSDATE);
+END;
+/
+
+--3) AFTER UPDATE, Statement Level: 
+--This trigger will insert a record into the table 'product_check' after update statement 
+--is executed at the statement level. 
+
+CREATE OR REPLACE TRIGGER AFTER_UPDATE_STATEMENT
+AFTER UPDATE
+ON PRODUCT
+BEGIN
+INSERT INTO PRODUCT_CHECK VALUES ('AFTER UPDATE,STATEMENT LEVEL',SYSDATE);
+END;
+/
+--4) AFTER UPDATE, Row Level: 
+--This trigger will insert a record into the table 'product-check'after each row is updated. 
+
+CREATE OR REPLACE TRIGGER AFTER_UPDATE_ROW
+AFTER UPDATE
+ON PRODUCT
+FOR EACH ROW
+BEGIN
+INSERT INTO PRODUCT_CHECK VALUES ('AFTER UPDATE, ROW LEVEL', sysdate);
+END;
+/
+
+
+
+UPDATE PRODUCT 
+SET unit_price = 800
+WHERE product_id in (100,101); 
+
+SELECT * FROM product_check;

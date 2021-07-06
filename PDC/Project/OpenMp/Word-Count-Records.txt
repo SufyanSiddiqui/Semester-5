@@ -1,0 +1,715 @@
+Word Count in 2mb.txtis = 303778777
+Year:2020
+Month: 12
+Day: 3
+Time: 27:62:5
+Word Count in 2mb.txtis = 304844443
+Year:2020
+Month: 12
+Day: 3
+Time: 27:62:30
+Word Count in 2mb.txtis = 312535549
+Year:2020
+Month: 12
+Day: 3
+Time: 27:66:26
+Word Count in 2mb.txtis = 306713328
+Year:2020
+Month: 12
+Day: 3
+Time: 27:67:28
+Word Count in Sample.txtis = 12
+Year:2020
+Month: 12
+Day: 3
+Time: 27:68:46
+Word Count in 2mb.txtis = 307045616
+Year:2020
+Month: 12
+Day: 3
+Time: 27:69:8
+Word Count in 2mb.txtis = 303161499
+Year:2020
+Month: 12
+Day: 3
+Time: 27:72:10
+Word Count in Sample.txtis = 12
+Year:2020
+Month: 12
+Day: 3
+Time: 27:72:57
+Word Count in Sample.txtis = 13
+Year:2020
+Month: 12
+Day: 3
+Time: 27:73:32
+Word Count in Sample.txtis = 534
+Year:2020
+Month: 12
+Day: 3
+Time: 27:74:44
+Word Count in Sample.txtis = 821
+Year:2020
+Month: 12
+Day: 3
+Time: 27:76:55
+Word Count in Sample.txtis = 862
+Year:2020
+Month: 12
+Day: 3
+Time: 27:77:14
+Word Count in 3gb.txtis = 0
+Year:2020
+Month: 12
+Day: 3
+Time: 27:77:39
+Word Count in 2gb.txtis = 1214418934
+Year:2020
+Month: 12
+Day: 3
+Time: 27:79:38
+Word Count in Sample.txtis = 0
+Year:2020
+Month: 12
+Day: 3
+Time: 27:80:23
+Word Count in Sample.txtis = 98000
+Year:2020
+Month: 12
+Day: 3
+Time: 27:82:15
+Word Count in Sample.txtis = 100000
+Year:2020
+Month: 12
+Day: 3
+Time: 27:82:57
+Word Count in Sample.txtis = 10000
+Year:2020
+Month: 12
+Day: 3
+Time: 27:83:18
+Word Count in Sample.txtis = 4000
+Year:2020
+Month: 12
+Day: 3
+Time: 27:83:35
+Word Count in Sample.txtis = 1001
+Year:2020
+Month: 12
+Day: 3
+Time: 27:83:47
+Word Count in 2mb.txtis = 312376216
+Year:2020
+Month: 12
+Day: 3
+Time: 27:84:17
+Word Count in sm2.txtis = 9
+Year:2020
+Month: 12
+Day: 3
+Time: 27:84:57
+Word Count in sm2.txtis = 3
+Year:2020
+Month: 12
+Day: 3
+Time: 27:85:32
+Word Count in sm2.txtis = 3
+Year:2020
+Month: 12
+Day: 3
+Time: 27:85:42
+Word Count in Sample.txtis = 892
+Year:2020
+Month: 12
+Day: 3
+Time: 27:85:53
+Word Count in 2mb.txtis = 303056828
+Year:2020
+Month: 12
+Day: 3
+Time: 27:86:20
+Word Count in Sample.txtis = 2332
+Year:2020
+Month: 12
+Day: 3
+Time: 27:87:14
+Word Count in Sample.txtis = 1000
+Year:2020
+Month: 12
+Day: 3
+Time: 27:88:20
+Word Count in Sample.txtis = 704
+Year:2020
+Month: 12
+Day: 3
+Time: 27:88:55
+Word Count in Sample.txtis = 1433
+Year:2020
+Month: 12
+Day: 3
+Time: 27:89:37
+Word Count in Sample.txtis = 1845
+Year:2020
+Month: 12
+Day: 3
+Time: 27:89:49
+Word Count in Sample.txtis = 1743
+Year:2020
+Month: 12
+Day: 3
+Time: 28:31:8
+Word Count in Sample.txtis = 1145
+Year:2020
+Month: 12
+Day: 3
+Time: 28:31:17
+Word Count in Sample.txtis = 813
+Year:2020
+Month: 12
+Day: 3
+Time: 28:31:25
+Word Count in Sample.txtis = 1336
+Year:2020
+Month: 12
+Day: 3
+Time: 28:31:32
+Word Count in Sample.txtis = 820
+Year:2020
+Month: 12
+Day: 3
+Time: 28:31:40
+Word Count in Sample.txtis = 1204
+Year:2020
+Month: 12
+Day: 3
+Time: 28:32:40
+Word Count in Sample.txtis = 803
+Year:2020
+Month: 12
+Day: 3
+Time: 28:33:12
+Word Count in Sample.txtis = 484
+Year:2020
+Month: 12
+Day: 3
+Time: 28:35:37
+Word Count in Sample.txtis = 879
+Year:2020
+Month: 12
+Day: 3
+Time: 28:36:0
+Word Count in Sample.txtis = 1006
+Year:2020
+Month: 12
+Day: 3
+Time: 28:36:41
+Word Count in Sample.txtis = 930
+Year:2020
+Month: 12
+Day: 3
+Time: 28:37:3
+Word Count in Sample.txtis = 0
+Year:2020
+Month: 12
+Day: 3
+Time: 28:52:51
+Word Count in Sample.txtis = 0
+Year:2020
+Month: 12
+Day: 3
+Time: 28:53:46
+Word Count in Sample.txtis = 999
+Year:2020
+Month: 12
+Day: 3
+Time: 28:55:44
+Word Count in Sample.txtis = 0
+Year:2020
+Month: 12
+Day: 3
+Time: 28:61:30
+Word Count in Sample.txtis = 999
+Year:2020
+Month: 12
+Day: 3
+Time: 28:64:14
+Word Count in 2mb.txtis = 1007
+Year:2020
+Month: 12
+Day: 3
+Time: 28:64:29
+Word Count in Sampl3.txtis = 0
+Year:2020
+Month: 12
+Day: 3
+Time: 28:67:49
+Word Count in Sample.txtis = 1037
+Year:2020
+Month: 12
+Day: 3
+Time: 28:67:57
+Word Count in Sample.txtis = 12
+Year:2020
+Month: 12
+Day: 3
+Time: 28:68:22
+Word Count in Sample.txtis = 10
+Year:2020
+Month: 12
+Day: 3
+Time: 28:68:49
+Word Count in Sample.txtis = 1169
+Year:2020
+Month: 12
+Day: 3
+Time: 28:70:10
+Word Count in Sample.txtis = 7
+Year:2020
+Month: 12
+Day: 3
+Time: 28:70:44
+Word Count in Sample.txtis = 5
+Year:2020
+Month: 12
+Day: 3
+Time: 28:71:9
+Word Count in Sample.txtis = 7
+Year:2020
+Month: 12
+Day: 3
+Time: 28:71:24
+Word Count in Sample.txtis = 2
+Year:2020
+Month: 12
+Day: 3
+Time: 28:72:6
+Word Count in 2mb.txtis = 296163470
+Year:2020
+Month: 12
+Day: 3
+Time: 28:73:42
+Word Count in Sample.txtis = 1044
+Year:2020
+Month: 12
+Day: 3
+Time: 28:75:6
+Word Count in Sample.txt is = 1111
+Year:2020
+Month: 12
+Day: 3
+Time: 28:81:4
+Word Count in Sample.txt is = 532
+Year:2020
+Month: 12
+Day: 3
+Time: 28:82:25
+Word Count in Sample.txt is = 892
+Year:2020
+Month: 12
+Day: 3
+Time: 28:83:2
+Time taken: 0.093 seconds 
+Word Count in 2gb.txt is = 1201452478
+Year:2020
+Month: 12
+Day: 3
+Time: 28:84:1
+Time taken: 49.729 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 5
+Time: 20:32:43
+Time taken: 22.301 seconds 
+Word Count in 2.txt is = -2103203086
+Year:2020
+Month: 12
+Day: 5
+Time: 20:33:24
+Time taken: 40.549 seconds 
+Word Count in 3.txt is = -1737909051
+Year:2020
+Month: 12
+Day: 5
+Time: 20:33:34
+Time taken: 9.844 seconds 
+Word Count in 4.txt is = -1737908051
+Year:2020
+Month: 12
+Day: 5
+Time: 20:33:34
+Time taken: 0 seconds 
+Word Count in 5.txt is = -1737908048
+Year:2020
+Month: 12
+Day: 5
+Time: 20:33:34
+Time taken: 0 seconds 
+Word Count in 6.txt is = -1372614013
+Year:2020
+Month: 12
+Day: 5
+Time: 20:33:44
+Time taken: 10.353 seconds 
+Word Count in 7.txt is = -1007319978
+Year:2020
+Month: 12
+Day: 5
+Time: 20:33:54
+Time taken: 10.236 seconds 
+Word Count in 8.txt is = -642025943
+Year:2020
+Month: 12
+Day: 5
+Time: 20:34:5
+Time taken: 10.227 seconds 
+Word Count in 5.txt is = 4675134
+Year:2020
+Month: 12
+Day: 5
+Time: 20:35:20
+Time taken: 0 seconds 
+Word Count in 4.txt is = 4680348
+Year:2020
+Month: 12
+Day: 5
+Time: 20:35:20
+Time taken: 0 seconds 
+Word Count in 6.txt is = 936518495
+Year:2020
+Month: 12
+Day: 5
+Time: 20:36:4
+Time taken: 43.472 seconds 
+Word Count in 7.txt is = 936529355
+Year:2020
+Month: 12
+Day: 5
+Time: 20:36:3
+Time taken: 43.251 seconds 
+Word Count in 3.txt is = 936902832
+Year:2020
+Month: 12
+Day: 5
+Time: 20:36:4
+Time taken: 43.46 seconds 
+Word Count in 8.txt is = 936953891
+Year:2020
+Month: 12
+Day: 5
+Time: 20:36:4
+Time taken: 43.451 seconds 
+Word Count in 1.txt is = 1588648439
+Year:2020
+Month: 12
+Day: 5
+Time: 20:36:21
+Time taken: 61.05 seconds 
+Word Count in 2.txt is = -1984049765
+Year:2020
+Month: 12
+Day: 5
+Time: 20:36:41
+Time taken: 81.433 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 5
+Time: 20:43:12
+Time taken: 17.199 seconds 
+Word Count in 2.txt is = -2103203086
+Year:2020
+Month: 12
+Day: 5
+Time: 20:43:48
+Time taken: 35.302 seconds 
+Word Count in 3.txt is = -1737909051
+Year:2020
+Month: 12
+Day: 5
+Time: 20:43:56
+Time taken: 8.756 seconds 
+Word Count in 4.txt is = -1737908051
+Year:2020
+Month: 12
+Day: 5
+Time: 20:43:56
+Time taken: 0 seconds 
+Word Count in 5.txt is = -1737908048
+Year:2020
+Month: 12
+Day: 5
+Time: 20:43:56
+Time taken: 0 seconds 
+Word Count in 6.txt is = -1372614013
+Year:2020
+Month: 12
+Day: 5
+Time: 20:44:5
+Time taken: 8.736 seconds 
+Word Count in 7.txt is = -1007319978
+Year:2020
+Month: 12
+Day: 5
+Time: 20:44:14
+Time taken: 8.544 seconds 
+Word Count in 8.txt is = -642025943
+Year:2020
+Month: 12
+Day: 5
+Time: 20:44:22
+Time taken: 8.574 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 5
+Time: 20:51:16
+Time taken: 16.462 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 5
+Time: 20:51:48
+Time taken: 32.385 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 5
+Time: 20:52:53
+Time taken: 15.643 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 5
+Time: 20:53:55
+Time taken: 16.025 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 5
+Time: 20:54:26
+Time taken: 30.727 seconds 
+Word Count in 3.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:54:35
+Time taken: 8.401 seconds 
+Word Count in 4.txt is = 1000
+Year:2020
+Month: 12
+Day: 5
+Time: 20:54:35
+Time taken: 0 seconds 
+Word Count in 5.txt is = 3
+Year:2020
+Month: 12
+Day: 5
+Time: 20:54:35
+Time taken: 0 seconds 
+Word Count in 6.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:54:43
+Time taken: 8.048 seconds 
+Word Count in 7.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:62:35
+Time taken: 8.695 seconds 
+Word Count in 8.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:62:42
+Time taken: 7.875 seconds 
+Word Count in 5.txt is = 3
+Year:2020
+Month: 12
+Day: 5
+Time: 20:65:56
+Time taken: 0.001 seconds 
+Word Count in 4.txt is = 1000
+Year:2020
+Month: 12
+Day: 5
+Time: 20:65:56
+Time taken: 0.001 seconds 
+Word Count in 6.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 20.421 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 47.748 seconds 
+Word Count in 4.txt is = 1000
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 0 seconds 
+Word Count in 8.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 20.422 seconds 
+Word Count in 5.txt is = 3
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 0 seconds 
+Word Count in 3.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 20.687 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 31.968 seconds 
+Word Count in 7.txt is = 365294035
+Year:2020
+Month: 12
+Day: 5
+Time: 20:67:45
+Time taken: 20.64 seconds 
+Word Count in 1.txt is = 730588070
+
+Year:2020
+Month: 12
+Month: 12
+Day: 16
+Month: 12
+Day: 16
+33:25
+Time: 26:33:25
+Time taken: 83.014 seconds 
+Time taken: 100.06 seconds 
+Year:2020
+Month: 12
+Day: 16
+Time: 26:33:25
+Time taken: 0 seconds 
+Word Count in 6.txt is = 365294035
+Year:2020
+Month: 12
+Day: 16
+Time: 26:33:25
+Time taken: 71.179 seconds 
+Word Count in 3.txt is = 365294035
+Year:2020
+Month: 12
+Day: 16
+Time: 26:33:25
+Time taken: 72.027 seconds 
+Word Count in 7.txt is = 365294035
+Year:2020
+Month: 12
+Day: 16
+Time: 26:33:25
+Time taken: 71.3 seconds 
+Word Count in 4.txt is = 1000
+Year:2020
+Month: 12
+Day: 16
+Time: 26:33:25
+Time taken: 0 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 16
+Time: 26:37:5
+Time taken: 35.159 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 16
+Time: 26:37:5
+Time taken: 19.555 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 16
+Time: 26:38:42
+Time taken: 38.591 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 16
+Time: 26:38:42
+Time taken: 21.795 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 16
+Time: 26:39:36
+Time taken: 35.229 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 16
+Time: 26:39:36
+Time taken: 19.368 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 16
+Time: 26:40:52
+Time taken: 20.283 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 16
+Time: 26:40:52
+Time taken: 35.609 seconds 
+Word Count in 1.txt is = 730588070
+Year:2020
+Month: 12
+Day: 16
+Time: 26:43:27
+Time taken: 22.604 seconds 
+Word Count in 2.txt is = 1461176140
+Year:2020
+Month: 12
+Day: 16
+Time: 26:43:27
+Time taken: 39.399 seconds 
+Word Count in 3.txt is = 365294035
+
+Year:2020
+Month: 12
+Year:2020Year:2020
+:28
+Month: 12Time: 26:56:28
+s 
+Month: 12
+Day: 16
+Time: 26:56:28
+Time taken: 26.109 seconds 
+Month: 12
+Day: 16
+Time: 26:56:28
+Time taken: 0 seconds 
+Day: 16
+Time: 26:56:28
+Time taken: 25.349 seconds 
+Time taken: 36.86 seconds 
+:56:28
+Time taken: 0 seconds 
+Day: 16
+56:28
+Time taken: 25.457 seconds 
+Time: 26:56:28
+Time taken: 24.899 seconds 

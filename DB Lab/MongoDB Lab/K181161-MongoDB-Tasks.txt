@@ -1,0 +1,6 @@
+Query : db.createCollection(“Hotels”);
+	db.Hotels.insertOne({"Address": {"Building": "123","Street": "ABC-01","Zipcode": "7500"},"Town": "Karachi Down Town","Cuisine": "Bakery","Dishes": [ { "Pakistani": { "Price": "1K", "ratings": 9/10 },{ "Chinese": { "Price": “1.5K” }, "ratings": 8/10 },{ "British": { "Price": “1.6” }, "ratings": 7/10 },"Name": "New Down Town Hotel","Hotel_ID": "PAK-30075"})
+Query : db.Hotels.find()
+Query : db.Hotels.find({},{"Hotel_ID" : 1,"Name":1,"Town":1,"Cuisine" :1});
+Query : db.Hotels.find({“Hotel_ID”:{$eq:”PAK-30075”}},{“Hotel_ID”:0,”Name”:0})
+db.Hotels.find({"Town": {$ne:"Karachi Down Town"},$or:[{"Dishes.Pakistani": { $exists : true }},{"Dishes.Chinese": { $exists : true }}]}).pretty()
